@@ -1,1 +1,5 @@
-This is a project to study how to work with branches
+# Git branches
+
+git branch %BRANCH_NAME% - create new branch
+
+git checkout %BRANCH_NAME% - change branch
