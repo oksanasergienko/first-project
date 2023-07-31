@@ -1,1 +1,1 @@
-Study harder
+This is a project to study how to work with branches
