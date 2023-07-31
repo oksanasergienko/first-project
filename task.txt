@@ -3,3 +3,6 @@
 git branch %BRANCH_NAME% - create new branch
 
 git checkout %BRANCH_NAME% - change branch
+
+git branch - show all branches
+
