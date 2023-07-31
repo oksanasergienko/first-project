@@ -7,3 +7,5 @@ git checkout %BRANCH_NAME% - change branch
 git branch - show all branches
 
 git diff - compare branches
+
+git merge - merge 2 branches into one
