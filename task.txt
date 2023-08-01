@@ -9,3 +9,5 @@ git branch - show all branches
 git diff - compare branches
 
 git merge - merge 2 branches into one
+
+git push - send changes to remote repository
